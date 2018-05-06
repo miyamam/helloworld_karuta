@@ -1,0 +1,1 @@
+It was designed simple enough to write various programs easy to understand with few lines. It was named after a BBC comedy show. The ecosystem provides many libraries, especially for machine learning, and gets more and more popular. Version 3 and Version 2 has different styles for HelloWorld.

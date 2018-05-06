@@ -1,0 +1,1 @@
+It introduced Object-oriented programming in areas where script languages had been dominant. You will find HelloWorld with it very simple. Also, it was the first programming language developed in Japan to be accepted as an International Standard by the ISO and IEC. It was developed by Yukihiro Matsumoto.

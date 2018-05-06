@@ -1,0 +1,1 @@
+It has different behavior from browser to browser and coders sometimes have complex emotion against Internet Explorer. It is used with HTML to define how web contents should be displayed. You can learn various tricks from experienced meisters...It stands for Cascading Style Sheets.

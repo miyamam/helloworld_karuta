@@ -1,0 +1,1 @@
+It is an HTML preprocessor, born in 1995. It has many built-in functions for web application development. It can be used as template engine and texts outside tags are printed directly. HelloWorld is shorter than in other languages. ElePHPant is the mascot. Composer is recently preferred to PEAR.

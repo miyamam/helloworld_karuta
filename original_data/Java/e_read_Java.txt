@@ -1,0 +1,1 @@
+It inherited many syntax from C and C++. It is said to be working almost everywhere from embedded system, mobile, server to super computers. Actually, 3 Billion devices run it. It was developed by Sun Microsystems.

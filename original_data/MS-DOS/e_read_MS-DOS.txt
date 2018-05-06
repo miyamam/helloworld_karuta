@@ -1,0 +1,1 @@
+A OS for PCs  developed by Microsoft.Its main function is disk management. Popularized in the 1980s. You can still run it at the Windows command prompt.

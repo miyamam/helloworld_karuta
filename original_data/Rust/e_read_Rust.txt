@@ -1,0 +1,1 @@
+It is a system programming language. It has features like type inference and pattern matching to write fast programs with memory-safety. Programmers often struggle with the notorious borrow-checker.  

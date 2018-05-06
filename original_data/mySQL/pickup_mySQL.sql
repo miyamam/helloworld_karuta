@@ -1,2 +1,3 @@
 # Hello World
-SELECT 'Hello World';
+SELECT CONNECTION_ID();
+SELECT * FROM HelloWorld ;

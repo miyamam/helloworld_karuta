@@ -1,0 +1,1 @@
+While almost programming languages is based on English, it allows to write codes in Japanese. Its motto is "Simple for Everyone". It can be used as introduction into programming and handy tool for daily routinework. It is a improved version of Himawari, which is developed by the same engineer, クジラ飛行机.

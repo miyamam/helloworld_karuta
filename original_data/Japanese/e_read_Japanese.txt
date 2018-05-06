@@ -1,0 +1,1 @@
+It is the language most used by Japanese engineers,but It is rarely used outside Japan.It was Mr. Mark of Italy that introduced it to the world first.It is characterized by dealing with various types of character codes.Programmers die by mixing double-byte and half-width characters.

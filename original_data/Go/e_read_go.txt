@@ -1,0 +1,3 @@
+It is a compiled language with simple syntax and lightweight behavior. It is designed so that even engineers who are not smart enough can handle it. The community is generating lots of fan arts on the popular mascot, Gopher. It was developed in as new as 2009, by Google, and is an OSS.
+
+＃TBC(to be confirm)

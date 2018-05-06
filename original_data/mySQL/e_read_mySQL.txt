@@ -1,0 +1,1 @@
+One of the most famous RDBMS. It is provided as OSS and you can use it not commecial purpose is for free. Famous known as a dolphin character. It runs on Linux, Windows, Solaris, AIX and macOS.  

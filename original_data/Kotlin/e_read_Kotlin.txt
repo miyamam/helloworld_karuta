@@ -1,0 +1,1 @@
+It is a statically typed object oriented language. It was developed for the idea of supporting people to write Java more simply and securely. It works on JVM so many of assets in Java are available. It is given attention because it was officially adopted by Google as the language for Android development in 2017.

@@ -1,0 +1,1 @@
+It is a family of high-level, general-purpose, interpreted, dynamic programming languages. This language borrow features from other programming languages including C, shell script (sh), AWK, and sed. It is used to broad feature such as web applications, system management and so on, specially good at text-handling. It was originally developed by Larry Wall in 1987

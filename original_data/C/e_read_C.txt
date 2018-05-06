@@ -1,0 +1,3 @@
+It is a language of enormous influence on other programming languages, while it has general functionality and high portability, it is so old and influenced by machine language that it is not easy enough to learn. You can write HelloWorld in differnt ways depending on environment. It was developed mainly by Dennis Ritchie in AT&T's Bell Lab in 1972. 
+
+TBC

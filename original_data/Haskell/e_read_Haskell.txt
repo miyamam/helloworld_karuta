@@ -1,0 +1,3 @@
+It is a standardized, general-purpose purely functional programming language, with non-strict semantics and strong static typing. Haskell features lazy evaluation, pattern matching, list comprehension, type classes and type polymorphism. It is a purely functional language, which means that functions generally have no side effects. It is named after logician Haskell Curry.
+
+＃TBC(to be confirm)
