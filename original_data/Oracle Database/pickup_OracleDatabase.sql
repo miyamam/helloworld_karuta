@@ -1,3 +1,3 @@
-# Hello World
+-- Hello World
 SELECT USERENV('SESSIONID') FROM dual;
-SELECT * FROM HelloWorld ;
+SELECT * FROM HelloWorld;

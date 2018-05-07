@@ -1,7 +1,15 @@
 //Hello World
-class HelloWorld
+Using System;
+
+namespace HelloWorld
 {
-    static void Main() => System.Console.WriteLine("Hello World!");
+    class Program
+    {
+        Static void Main(string[] args)
+        {
+            Console.WriteLine("Hello World!");
+        }
+    }
 }
 
-//TBC
+// コードが間違っていた（動作しないコード）ので訂正しました。

@@ -1,1 +1,4 @@
-One of the most famous RDBMS. x86 Linux, Windows, UNIX and other various multi platform is supported. CEO likes Japanese and owns Katsura Imperial Villa replica house. CEO acts Ironman 2 as himself. Dog employee is working Tokyo.
+One of the most famous RDBMS. x86 Linux, Windows, UNIX and other various multi platform is supported. 
+CEO likes Japanese and owns Katsura Imperial Villa replica house. 
+CEO acts Ironman 2 as himself. 
+Dog employee is working Tokyo.

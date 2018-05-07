@@ -14,3 +14,5 @@ State   Read   |   Write     Step    Next state
 10      empty  |   l         >       11
 11      empty  |   d         >       12
 12      empty  |   !         >       STOP
+
+TBC

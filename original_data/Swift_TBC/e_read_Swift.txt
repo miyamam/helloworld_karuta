@@ -1,0 +1,3 @@
+It is announced by Apple for app development in 2014. 
+Its motto is "modern, safe, fast, and interactive" and wow, it's faster than C.
+ While it is a multi-paradigm compiled language, it can be used as an interpreted language or a script language in Playground or terminals. Recently it has been used for web development.
