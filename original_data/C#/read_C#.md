@@ -3,3 +3,4 @@ C言語ファミリー（C, C++, Java, JavaScript) をルーツとしたシン�
 2002年にマイクロソフトの Visual Studio .NET で .NET Framework 1.0 対応言語として初めて実装された。
 
 // 記述を訂正しました。
+[C#のガイド](https://docs.microsoft.com/ja-jp/dotnet/csharp/)
